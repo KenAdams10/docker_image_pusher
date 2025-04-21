@@ -1,1 +1,1 @@
-smartcontract/chainlink:2.19.0
+ethereum/client-go
