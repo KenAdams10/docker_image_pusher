@@ -1,1 +1,2 @@
 postgres:12
+matterlabs/local-node:beta2.0
