@@ -1,1 +1,1 @@
-matterlabs/geth
+postgres:12
