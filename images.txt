@@ -1,2 +1,1 @@
-postgres:12
-matterlabs/local-node:beta2.0
+martcontract/chainlink:2.8.0
